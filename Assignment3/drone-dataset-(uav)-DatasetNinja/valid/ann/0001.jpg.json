@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 900
+    },
+    "objects": [
+        {
+            "id": 76950409,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:17.966Z",
+            "updatedAt": "2023-10-23T17:58:17.966Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        35
+                    ],
+                    [
+                        820,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76950408,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:17.966Z",
+            "updatedAt": "2023-10-23T17:58:17.966Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        153
+                    ],
+                    [
+                        865,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76950407,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:17.965Z",
+            "updatedAt": "2023-10-23T17:58:17.965Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        294
+                    ],
+                    [
+                        702,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76950406,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:17.965Z",
+            "updatedAt": "2023-10-23T17:58:17.965Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        263
+                    ],
+                    [
+                        462,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76950405,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:17.964Z",
+            "updatedAt": "2023-10-23T17:58:17.964Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        184
+                    ],
+                    [
+                        172,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76950404,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:17.963Z",
+            "updatedAt": "2023-10-23T17:58:17.963Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        0
+                    ],
+                    [
+                        286,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

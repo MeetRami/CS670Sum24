@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 330,
+        "width": 580
+    },
+    "objects": [
+        {
+            "id": 76951692,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T18:00:32.589Z",
+            "updatedAt": "2023-10-23T18:00:32.589Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        48
+                    ],
+                    [
+                        303,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76951691,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T18:00:32.589Z",
+            "updatedAt": "2023-10-23T18:00:32.589Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        164
+                    ],
+                    [
+                        128,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76951690,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T18:00:32.588Z",
+            "updatedAt": "2023-10-23T18:00:32.588Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        89
+                    ],
+                    [
+                        436,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76951689,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T18:00:32.587Z",
+            "updatedAt": "2023-10-23T18:00:32.587Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        150
+                    ],
+                    [
+                        508,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76951688,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T18:00:32.586Z",
+            "updatedAt": "2023-10-23T18:00:32.586Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        1
+                    ],
+                    [
+                        571,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

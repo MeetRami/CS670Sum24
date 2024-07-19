@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 366,
+        "width": 515
+    },
+    "objects": [
+        {
+            "id": 76951660,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T18:00:29.854Z",
+            "updatedAt": "2023-10-23T18:00:29.854Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        32
+                    ],
+                    [
+                        501,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

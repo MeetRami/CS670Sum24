@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 888,
+        "width": 1330
+    },
+    "objects": [
+        {
+            "id": 76950366,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:14.577Z",
+            "updatedAt": "2023-10-23T17:58:14.577Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        537
+                    ],
+                    [
+                        1081,
+                        814
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76950365,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:14.577Z",
+            "updatedAt": "2023-10-23T17:58:14.577Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        348
+                    ],
+                    [
+                        989,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 76950364,
+            "classId": 6488528,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-23T17:58:14.576Z",
+            "updatedAt": "2023-10-23T17:58:14.576Z",
+            "tags": [],
+            "classTitle": "drone",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        226
+                    ],
+                    [
+                        984,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
